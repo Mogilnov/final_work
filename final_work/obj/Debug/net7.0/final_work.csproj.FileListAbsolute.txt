@@ -1,0 +1,15 @@
+/home/igor/Документы/обучение/итоговая контрольная/final_work/bin/Debug/net7.0/final_work
+/home/igor/Документы/обучение/итоговая контрольная/final_work/bin/Debug/net7.0/final_work.deps.json
+/home/igor/Документы/обучение/итоговая контрольная/final_work/bin/Debug/net7.0/final_work.runtimeconfig.json
+/home/igor/Документы/обучение/итоговая контрольная/final_work/bin/Debug/net7.0/final_work.dll
+/home/igor/Документы/обучение/итоговая контрольная/final_work/bin/Debug/net7.0/final_work.pdb
+/home/igor/Документы/обучение/итоговая контрольная/final_work/obj/Debug/net7.0/final_work.csproj.AssemblyReference.cache
+/home/igor/Документы/обучение/итоговая контрольная/final_work/obj/Debug/net7.0/final_work.GeneratedMSBuildEditorConfig.editorconfig
+/home/igor/Документы/обучение/итоговая контрольная/final_work/obj/Debug/net7.0/final_work.AssemblyInfoInputs.cache
+/home/igor/Документы/обучение/итоговая контрольная/final_work/obj/Debug/net7.0/final_work.AssemblyInfo.cs
+/home/igor/Документы/обучение/итоговая контрольная/final_work/obj/Debug/net7.0/final_work.csproj.CoreCompileInputs.cache
+/home/igor/Документы/обучение/итоговая контрольная/final_work/obj/Debug/net7.0/final_work.dll
+/home/igor/Документы/обучение/итоговая контрольная/final_work/obj/Debug/net7.0/refint/final_work.dll
+/home/igor/Документы/обучение/итоговая контрольная/final_work/obj/Debug/net7.0/final_work.pdb
+/home/igor/Документы/обучение/итоговая контрольная/final_work/obj/Debug/net7.0/final_work.genruntimeconfig.cache
+/home/igor/Документы/обучение/итоговая контрольная/final_work/obj/Debug/net7.0/ref/final_work.dll
